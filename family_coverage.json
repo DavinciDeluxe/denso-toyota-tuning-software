@@ -1,9 +1,17 @@
 {
-  "family": "Denso (Toyota/Lexus)",
+  "family": "Denso (Toyota/Lexus/Marine)",
   "slug": "denso-toyota",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/denso-toyota-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/denso-toyota-tuning-software",
+    "https://www.davincideluxe.org/denso-toyota-tuning-software",
+    "https://www.davincideluxe.app/denso-toyota-tuning-software",
+    "https://www.davincideluxe.software/denso-toyota-tuning-software",
+    "https://www.davincideluxe.es/denso-toyota-tuning-software",
+    "https://www.davincideluxe.de/denso-toyota-tuning-software",
+    "https://www.davincideluxe.it/denso-toyota-tuning-software",
+    "https://www.aesoftech.eu/denso-toyota-tuning-software"
+  ],
   "matched_variants_count": 46,
   "brands": {
     "HONDA": [
