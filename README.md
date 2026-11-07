@@ -1,10 +1,10 @@
-# Denso (Toyota/Lexus/Marine) ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Denso (Toyota/Lexus/Marine) ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Denso%20(Toyota%2FLexus%2FMarine)-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/denso-toyota-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/denso-toyota-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/denso-toyota-tuning-software)
 
-**Denso (Toyota/Lexus/Marine)** is Toyota, Lexus, Hino, Mazda, Subaru, Nissan, Isuzu & Yamaha Marine Denso NEC76F/Gen1/Gen2/Gen3/SH705x ECU family. **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Denso (Toyota/Lexus/Marine) readouts**.
+**Denso (Toyota/Lexus/Marine)** is Toyota, Lexus, Hino, Mazda, Subaru, Nissan, Isuzu & Yamaha Marine Denso NEC76F/Gen1/Gen2/Gen3/SH705x ECU family. **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Denso (Toyota/Lexus/Marine) readouts**.
 
 ## 📊 Live Denso (Toyota/Lexus/Marine) Variants Covered Across Brands
 
