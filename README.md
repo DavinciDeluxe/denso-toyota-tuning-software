@@ -10,13 +10,13 @@
 
 | Brand | Denso (Toyota/Lexus/Marine) Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **OPEL** | 6 | `DECE02 SH7059`, `SH7058`, `SH7058 - DECE02 SH7059`, `SH7058 CJ`, `SH7059`, `SH7059-SH7058` |
-| **NISSAN** | 6 | `DENSON`, `SH7055`, `SH7058`, `SH7058-7059`, `SH7058-SH7059`, `SH7059` |
-| **ISUZU** | 5 | `SH7055`, `SH7058`, `4JXX SH7058`, `SH7058 _ SH72544`, `SH7058-4JJ1` |
+| **OPEL** | 5 | `DECE02 SH7059`, `SH7058`, `SH7058 - DECE02 SH7059`, `SH7058-SH7059`, `SH7059` |
+| **NISSAN** | 4 | `DENSON`, `SH7054`, `SH7055`, `SH7058-SH7059` |
+| **ISUZU** | 3 | `SH7055`, `SH7058`, `SH7058-SH72544` |
 | **MITSUBISHI** | 3 | `DENSO20160`, `SH7055`, `SH7058-SH7059` |
-| **SUBARU** | 3 | `DENSO20090`, `SH7058-SH7059`, `STI SH7058` |
-| **MAZDA** | 2 | `SH7055`, `SH7059-SH725X` |
+| **MAZDA** | 2 | `SH7055`, `SH7059-SH7253` |
 | **VOLVO** | 2 | `DENSO VEA`, `SH7058` |
+| **SUBARU** | 2 | `DENSO20090`, `SH7058-SH7059` |
 | **HONDA** | 1 | `SH7058` |
 | **HYUNDAI** | 1 | `SH7058` |
 | **CHEVROLET** | 1 | `SH7059` |
@@ -32,7 +32,6 @@
 | **STEYR** | 1 | `SH7059` |
 | **FPT INDUSTRIAL** | 1 | `SH7059` |
 | **IVECO** | 1 | `SH7059` |
-| **VOLVO TRUCKS** | 1 | `DENSO VEA` |
 | **MITSUBISHI FUSO** | 1 | `SH7055` |
 | **RENAULT TRUCKS** | 1 | `SH7059` |
 
