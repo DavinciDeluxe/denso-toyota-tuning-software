@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/denso-toyota-tuning-software",
     "https://www.aesoftech.eu/denso-toyota-tuning-software"
   ],
-  "matched_variants_count": 39,
+  "matched_variants_count": 41,
   "brands": {
     "HONDA": [
       "SH7058"
@@ -42,9 +42,11 @@
       "SH7059"
     ],
     "CHEVROLET": [
+      "SH7058-DECE02 SH7059",
       "SH7059"
     ],
     "VAUXHALL": [
+      "SH7058-DECE02 SH7059",
       "SH7059"
     ],
     "PEUGEOT": [
