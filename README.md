@@ -27,13 +27,12 @@
 | **TOYOTA** | 1 | `DENSO 76F00XX` |
 | **LEXUS** | 1 | `NEC` |
 | **CASE IH** | 1 | `SH7059` |
-| **KUBOTA** | 1 | `SH7058` |
+| **MITSUBISHI FUSO** | 1 | `SH7055` |
+| **IVECO** | 1 | `SH7059` |
 | **NEW HOLLAND** | 1 | `SH7059` |
 | **STEYR** | 1 | `SH7059` |
 | **FPT INDUSTRIAL** | 1 | `SH7059` |
-| **IVECO** | 1 | `SH7059` |
-| **MITSUBISHI FUSO** | 1 | `SH7055` |
-| **RENAULT TRUCKS** | 1 | `SH7059` |
+| **KUBOTA** | 1 | `SH7058` |
 
 👉 **[Open the full Denso (Toyota/Lexus/Marine) guide & test your file free at https://www.davincideluxe.fr/denso-toyota-tuning-software →](https://www.davincideluxe.fr/denso-toyota-tuning-software)**
 
