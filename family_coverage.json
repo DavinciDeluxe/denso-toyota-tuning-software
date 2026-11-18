@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/denso-toyota-tuning-software",
     "https://www.aesoftech.eu/denso-toyota-tuning-software"
   ],
-  "matched_variants_count": 41,
+  "matched_variants_count": 40,
   "brands": {
     "HONDA": [
       "SH7058"
@@ -81,8 +81,11 @@
     "CASE IH": [
       "SH7059"
     ],
-    "KUBOTA": [
-      "SH7058"
+    "MITSUBISHI FUSO": [
+      "SH7055"
+    ],
+    "IVECO": [
+      "SH7059"
     ],
     "NEW HOLLAND": [
       "SH7059"
@@ -93,14 +96,8 @@
     "FPT INDUSTRIAL": [
       "SH7059"
     ],
-    "IVECO": [
-      "SH7059"
-    ],
-    "MITSUBISHI FUSO": [
-      "SH7055"
-    ],
-    "RENAULT TRUCKS": [
-      "SH7059"
+    "KUBOTA": [
+      "SH7058"
     ]
   }
 }
