@@ -14,24 +14,7 @@
   ],
   "matched_variants_count": 40,
   "brands": {
-    "HONDA": [
-      "SH7058"
-    ],
-    "HYUNDAI": [
-      "SH7058"
-    ],
-    "ISUZU": [
-      "SH7055",
-      "SH7058",
-      "SH7058-SH72544"
-    ],
-    "MAZDA": [
-      "SH7055",
-      "SH7059-SH7253"
-    ],
-    "MITSUBISHI": [
-      "DENSO20160",
-      "SH7055",
+    "PEUGEOT": [
       "SH7058-SH7059"
     ],
     "OPEL": [
@@ -49,16 +32,40 @@
       "SH7058-DECE02 SH7059",
       "SH7059"
     ],
-    "PEUGEOT": [
-      "SH7058-SH7059"
+    "HONDA": [
+      "SH7058"
     ],
-    "RENAULT": [
-      "SH7059"
+    "HYUNDAI": [
+      "SH7058"
+    ],
+    "ISUZU": [
+      "SH7055",
+      "SH7058",
+      "SH7058-SH72544"
+    ],
+    "LEXUS": [
+      "NEC"
+    ],
+    "MAZDA": [
+      "SH7055",
+      "SH7059-SH7253"
+    ],
+    "MITSUBISHI": [
+      "DENSO20160",
+      "SH7055",
+      "SH7058-SH7059"
     ],
     "NISSAN": [
       "DENSON",
       "SH7054",
       "SH7055",
+      "SH7058-SH7059"
+    ],
+    "RENAULT": [
+      "SH7059"
+    ],
+    "SUBARU": [
+      "DENSO20090",
       "SH7058-SH7059"
     ],
     "SUZUKI": [
@@ -67,24 +74,11 @@
     "TOYOTA": [
       "DENSO 76F00XX"
     ],
-    "LEXUS": [
-      "NEC"
-    ],
     "VOLVO": [
       "DENSO VEA",
       "SH7058"
     ],
-    "SUBARU": [
-      "DENSO20090",
-      "SH7058-SH7059"
-    ],
     "CASE IH": [
-      "SH7059"
-    ],
-    "MITSUBISHI FUSO": [
-      "SH7055"
-    ],
-    "IVECO": [
       "SH7059"
     ],
     "NEW HOLLAND": [
@@ -96,8 +90,14 @@
     "FPT INDUSTRIAL": [
       "SH7059"
     ],
+    "IVECO": [
+      "SH7059"
+    ],
     "KUBOTA": [
       "SH7058"
+    ],
+    "MITSUBISHI FUSO": [
+      "SH7055"
     ]
   }
 }
